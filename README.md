@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @leandroKaklamanos
-- 👀 I’m interested in Fintec, Crypto
-- 🌱 I’m currently learning ML, Rust, Dev Ops
-- 💞️ I’m looking to collaborate on
+- Can't post work stuff here so this is mostly hobby projects
 - 📫 How to reach me: dm https://www.linkedin.com/in/leiandros-kaklamanos-31446b121/
 
 <!---
